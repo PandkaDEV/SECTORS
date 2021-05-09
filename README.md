@@ -1,0 +1,2 @@
+# SECTORS
+Plugin na sektory
