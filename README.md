@@ -1,4 +1,4 @@
-# SECTORS
+# SECTORS POD REDISA OBCZAJ TO WOOW
 Plugin na sektory
 
 
